@@ -1,4 +1,3 @@
-// components/Products/ProductDetail.jsx
 import React, { useEffect } from 'react';
 import { useParams, useNavigate, Link } from 'react-router-dom';
 import { Box, Typography, Button, IconButton, Grid } from '@mui/material';
