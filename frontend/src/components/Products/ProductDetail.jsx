@@ -2,8 +2,6 @@ import React, { useEffect } from 'react';
 import { useParams, useNavigate, Link } from 'react-router-dom';
 import { Box, Typography, Button, IconButton, Grid } from '@mui/material';
 import ArrowBackIcon from '@mui/icons-material/ArrowBack';
-
-// Import your product images
 import img1 from '../../assets/images/products/f1.jpg';
 import img2 from '../../assets/images/products/f2.jpg';
 import img3 from '../../assets/images/products/f3.jpg';
